@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaust\\Udemy\\Project\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {}
+    "C:\\Users\\kaust\\OneDrive\\Desktop\\Bookly\\Bookly\\Bulky.Models\\Bulky.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaust\\Udemy\\Project\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "C:\\Users\\kaust\\OneDrive\\Desktop\\Bookly\\Bookly\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaust\\Udemy\\Project\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "C:\\Users\\kaust\\OneDrive\\Desktop\\Bookly\\Bookly\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "C:\\Users\\kaust\\Udemy\\Project\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectPath": "C:\\Users\\kaust\\OneDrive\\Desktop\\Bookly\\Bookly\\Bulky.Models\\Bulky.Models.csproj",
         "packagesPath": "C:\\Users\\kaust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaust\\Udemy\\Project\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "C:\\Users\\kaust\\OneDrive\\Desktop\\Bookly\\Bookly\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
